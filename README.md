@@ -1,4 +1,4 @@
-# GitHubPresenter
+# GitHubAPIPresenter
 
 ● O candidato tem até 3 dias para entregar a implementação do desafio.
 

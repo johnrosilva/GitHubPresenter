@@ -42,3 +42,9 @@ https://developer.github.com/v3/
 • Explore a API antes de começar qualquer coisa.
 
 • Tire um tempo para entender tudo e faça um planejamento. Um bom projeto é fruto de um bom planejamento.
+
+
+![Simulator Screen Shot - iPhone 14 - 2023-05-19 at 11 04 58](https://github.com/johnrosilva/GitHubPresenter/assets/14061257/102a081b-2d2b-4519-a51b-626d4582d1e7)
+![Simulator Screen Shot - iPhone 14 - 2023-05-19 at 11 05 50](https://github.com/johnrosilva/GitHubPresenter/assets/14061257/8880a9d8-b5d0-4113-acb0-eb1ec47e5875)
+![Simulator Screen Shot - iPhone 14 - 2023-05-19 at 11 06 00](https://github.com/johnrosilva/GitHubPresenter/assets/14061257/f9d52e48-48c9-4fba-b1d3-a99e7638b9f0)
+![Simulator Screen Shot - iPhone 14 Pro - 2023-05-18 at 11 49 48](https://github.com/johnrosilva/GitHubPresenter/assets/14061257/91804db2-af44-4c9f-bd2f-4ce653bfd432)
